@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.84915fa3.css",
+    "main.js": "/static/js/main.b428ec4a.js",
+    "static/js/787.7717ef8a.chunk.js": "/static/js/787.7717ef8a.chunk.js",
+    "static/media/Chaloops W00 Bd.otf": "/static/media/Chaloops W00 Bd.4882a1193107a1622842.otf",
+    "static/media/eot": "/static/media/9186e96567fadf9c630b48d987ccd538.82c08ff81e6d26da5855.eot",
+    "static/media/ttf": "/static/media/9186e96567fadf9c630b48d987ccd538.08403172d3bd6884cc0f.ttf",
+    "static/media/woff": "/static/media/9186e96567fadf9c630b48d987ccd538.d611cd1b0749dfab1bb6.woff",
+    "static/media/bg-board.png": "/static/media/bg-board.fabf83265e2b863c9de3.png",
+    "static/media/woff2": "/static/media/9186e96567fadf9c630b48d987ccd538.eb904d346d8f5cb90d95.woff2",
+    "static/media/notification.svg?s3g3t9": "/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "/index.html",
+    "main.84915fa3.css.map": "/static/css/main.84915fa3.css.map",
+    "main.b428ec4a.js.map": "/static/js/main.b428ec4a.js.map",
+    "787.7717ef8a.chunk.js.map": "/static/js/787.7717ef8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84915fa3.css",
+    "static/js/main.b428ec4a.js"
+  ]
+}
